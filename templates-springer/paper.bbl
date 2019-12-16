@@ -1,0 +1,8 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{LoremIpsum}
+Lorem ipusm, \url{http://www.lipsum.com/feed/html}
+
+\end{thebibliography}
